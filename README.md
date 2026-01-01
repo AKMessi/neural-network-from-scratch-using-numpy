@@ -1,4 +1,3 @@
-```markdown
 # NumpyNet: CIFAR-10 from Scratch
 
 A fully vectorized implementation of a 2-layer Neural Network built purely in NumPy, without using PyTorch, TensorFlow, or Keras.
@@ -67,4 +66,3 @@ The model successfully overfits small batches (sanity check) and generalizes to 
 ## License
 
 MIT License
-```

@@ -26,8 +26,8 @@ This project demonstrates the core mechanics of Deep Learning, including manual 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/numpy-neural-net.git
-   cd numpy-neural-net
+   git clone https://github.com/AKMessi/neural-network-from-scratch-using-numpy.git
+   cd neural-network-from-scratch
    ```
 
 2. Install dependencies:
